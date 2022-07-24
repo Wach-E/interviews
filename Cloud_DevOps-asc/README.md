@@ -1,4 +1,4 @@
-1. Use Helm Chart to install a postgresql
+1. Use Helm Chart to install a postgresql. <br>
 Hints:
 - take care about the persistent disk.
 - write down your chart files and bash commands.
